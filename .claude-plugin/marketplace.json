@@ -1,0 +1,13 @@
+{
+  "name": "my-llm-marketplace",
+  "owner": {
+    "name": "Your Name"
+  },
+  "plugins": [
+    {
+      "name": "free-llm-apis",
+      "source": "./plugins/free-llm-apis",
+      "description": "Look up and compare LLM APIs with permanent free tiers"
+    }
+  ]
+}
